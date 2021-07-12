@@ -1,7 +1,6 @@
-#Demo Git Repository
+# Demo Git Repository
 This is the first file in this repo.
 
-##Ipsum Below
+## Website Contents
 
-Hello world!
-This is Zoe
+1. index.html
